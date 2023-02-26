@@ -1,3 +1,5 @@
+## AMSI Workshop Commands
+
 ### FRIDA
 
 ```shell
